@@ -1,0 +1,22 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/layers/cli/releases/download/v1.0.0/layers_1.0.0_windows_amd64.zip",
+            "bin": [
+                "layers.exe"
+            ],
+            "hash": "435efc36f8e05b1f689995b576a265cc502cec71223bed5ac5f8da5e268e601d"
+        },
+        "arm64": {
+            "url": "https://github.com/layers/cli/releases/download/v1.0.0/layers_1.0.0_windows_arm64.zip",
+            "bin": [
+                "layers.exe"
+            ],
+            "hash": "258094e46c181bb22982db2e16d953460d3f69d981a6d08aed317d48c4f34ba3"
+        }
+    },
+    "homepage": "https://layers.com",
+    "license": "MIT",
+    "description": "Layers CLI - Command line interface for Layers"
+}

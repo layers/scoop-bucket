@@ -1,19 +1,19 @@
 {
-    "version": "2.1.11",
+    "version": "2.1.12",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/layers/cli/releases/download/v2.1.11/layers_2.1.11_windows_amd64.zip",
+            "url": "https://github.com/layers/cli/releases/download/v2.1.12/layers_2.1.12_windows_amd64.zip",
             "bin": [
                 "layers.exe"
             ],
-            "hash": "add1266ff8b43d65449e0c912168033534df0d153e27521c4ad3c80f2f1d6b72"
+            "hash": "916ad3a138a6d400fe5de0aaa3bed33b9828782fa1d675cb4d439720d28dfd11"
         },
         "arm64": {
-            "url": "https://github.com/layers/cli/releases/download/v2.1.11/layers_2.1.11_windows_arm64.zip",
+            "url": "https://github.com/layers/cli/releases/download/v2.1.12/layers_2.1.12_windows_arm64.zip",
             "bin": [
                 "layers.exe"
             ],
-            "hash": "8b074961b413a20539df04a11fb7b2938f6464346c6abd25667b3908ad1e1665"
+            "hash": "9e1847129fa14c2c5e62f94a1c7a888fedc5f113b2bc8d70434a1f499d87fb86"
         }
     },
     "homepage": "https://layers.com",

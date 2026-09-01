@@ -6,14 +6,14 @@
             "bin": [
                 "layers.exe"
             ],
-            "hash": "6f6c1e13174722d6fa016cde353914338feee87d27fda9d566a741b00e10b1af"
+            "hash": "9526fc57dcf918ab598c031670c4192dd8d56a45c20c7690b31f94e9ba7fa86a"
         },
         "arm64": {
             "url": "https://github.com/layers/cli/releases/download/v2.1.9/layers_2.1.9_windows_arm64.zip",
             "bin": [
                 "layers.exe"
             ],
-            "hash": "dc4c044d129a58e9801820c0981d5f99c45f026f327008117480009a2047a190"
+            "hash": "d3f7de4f41befed1dabc03b599bcd743f18e1d24122fa1f796f99e4dd8854734"
         }
     },
     "homepage": "https://layers.com",
